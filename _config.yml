@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dr. Bingyi Kang / Assoc. Prof."
+title                    : "Dr. Bingyi Kang / NWAFU"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Bingyi Kang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Dr. B. Kang is an Assoc. Prof. of the College of Information Engineering at NWAFU"
+  location         : "Yangling, China"
   employer         : "Northwest A&F University"
-  uri              : # URL
+  uri              : "https://cie.nwsuaf.edu.cn/szdw/fjs/2018110062/index.htm"
   email            : "bingyi.kang@nwsuaf.edu.cn" 
 
   # Academic websites
