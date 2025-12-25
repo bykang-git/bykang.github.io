@@ -1,13 +1,14 @@
 ---
-title: "A novel BWM-based conflict management method for interval-valued belief structure"
+title: "A novel model based on graph kernel and S-R score in visibility graph for time series forecasting"
 collection: publications
-category: journal
-permalink: 
+category: manuscripts
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-date: 2025-08-22
-venue: 'Information Sciences'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0020025525007509?via%3Dihub'
-citation: 'Tao Yu, Yaxian Tang, Huizi Cui, Bingyi Kang. (2024). &quot;A novel BWM-based conflict management method for interval-valued belief structure.&quot; <i>Information Sciences</i>. 2025, 721: 122617.'
+date: 2025-06-24
+venue: 'Physica A: Statistical Mechanics and its Applications'
+slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S037843712500408X?via%3Dihub'
+citation: 'Yongzhuo Xu, Bingyi Kang, A novel model based on graph kernel and S-R score in visibility graph for time series forecasting, Physica A: Statistical Mechanics and its Applications, 2025, 674:130756'
 ---
 
-Following the Dempster-Shafer theory (DST), numerous combination methods have been put forward to combine interval-valued belief structures (IBSs). Nevertheless, when most of these methods are utilized to handle highly conflicting IBSs, they still lead to a low degree of belief, imprecise, or even counter-intuitive outcomes. To address this issue, this paper presents a method based on the best-worst method (BWM) for dealing with conflicting IBSs, which can examine the rationality of the assigned weights through a consistency factor to achieve better fusion results. Our method incorporates the interval-valued belief structure into a triangular fuzzy number (TFN) structure and assesses it through fuzzy BWM. The data model is processed by BWM, and each set of IBS is evaluated by the best and worst indicators to obtain the corresponding weights, which reduces the number of comparisons and weakens the impact of conflicting data in the comparison process. Some examples are provided to show that the proposed method performs outstandingly in conflict management.
+Time series contains rich historical information. Analyzing and utilizing this information to predict the future changes of the observed object has garnered widespread attention. The visibility graph method is an important branch in time series prediction. However, the approach of reducing interference and redundancy while leveraging the valid information of the visibility graph is void. Inspired by the idea of maximum relevance and minimum redundancy, we propose a Similarity-Redundancy (S-R) score to measure the contribution of different nodes after using graph kernel methods to calculate node similarities. Based on the proposed S-R score method, the selected high-quality nodes have both strong predictive ability (high correlation with the target node) and low information redundancy (low redundancy with other nodes). We conducted experiments on the proposed time series prediction model using the M-Competition datasets. The results show that the proposed S-R score can provide more accurate predictions.
