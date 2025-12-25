@@ -2,7 +2,7 @@
 title: "Deceptive evidence detection of belief functions based on reinforcement learning in partial label environment"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-12-18-paper-title-number-2
+permalink: /publication/2024-12-18-paper-title-number-1
 excerpt: ''
 date: 2024-12-18
 venue: 'Knowledge-Based Systems'
