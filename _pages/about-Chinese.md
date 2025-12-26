@@ -1,6 +1,6 @@
 ---
 permalink: /_pages/
-title: "康兵义"
+title: ""
 author_profile: true
 redirect_from: 
   - /about-Chinese/
