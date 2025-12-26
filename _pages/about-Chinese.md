@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /_pages/
 title: "康兵义中文简介"
 author_profile: true
 redirect_from: 
